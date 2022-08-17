@@ -1,0 +1,12 @@
+C:\Users\fleon\source\repos\MultiClip\MultiClip\obj\Debug\MultiClip.csproj.AssemblyReference.cache
+C:\Users\fleon\source\repos\MultiClip\MultiClip\obj\Debug\MultiClip.csproj.SuggestedBindingRedirects.cache
+C:\Users\fleon\source\repos\MultiClip\MultiClip\obj\Debug\MultiClip.ExpandForm.resources
+C:\Users\fleon\source\repos\MultiClip\MultiClip\obj\Debug\MultiClip.MultiClip.resources
+C:\Users\fleon\source\repos\MultiClip\MultiClip\obj\Debug\MultiClip.Properties.Resources.resources
+C:\Users\fleon\source\repos\MultiClip\MultiClip\obj\Debug\MultiClip.csproj.GenerateResource.cache
+C:\Users\fleon\source\repos\MultiClip\MultiClip\obj\Debug\MultiClip.csproj.CoreCompileInputs.cache
+C:\Users\fleon\source\repos\MultiClip\MultiClip\bin\Debug\MultiClip.exe.config
+C:\Users\fleon\source\repos\MultiClip\MultiClip\bin\Debug\MultiClip.exe
+C:\Users\fleon\source\repos\MultiClip\MultiClip\bin\Debug\MultiClip.pdb
+C:\Users\fleon\source\repos\MultiClip\MultiClip\obj\Debug\MultiClip.exe
+C:\Users\fleon\source\repos\MultiClip\MultiClip\obj\Debug\MultiClip.pdb
