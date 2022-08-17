@@ -42,13 +42,13 @@
             // 
             // itemList
             // 
-            this.itemList.Font = new System.Drawing.Font("Segoe UI", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.itemList.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.itemList.FormattingEnabled = true;
-            this.itemList.ItemHeight = 12;
+            this.itemList.ItemHeight = 15;
             this.itemList.Location = new System.Drawing.Point(11, 11);
             this.itemList.Margin = new System.Windows.Forms.Padding(2);
             this.itemList.Name = "itemList";
-            this.itemList.Size = new System.Drawing.Size(325, 268);
+            this.itemList.Size = new System.Drawing.Size(325, 259);
             this.itemList.TabIndex = 2;
             // 
             // clearButton
