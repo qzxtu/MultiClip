@@ -1,5 +1,5 @@
 ## MultiClip
-Save all your copied texts without worrying about losing important information when you turn off the PC, unlike the clipboard.
+MultiClip is an easy way to save all your copied texts without having to worry about losing important information when turning off the computer. You can then paste them into any application or file you want.
 
 ## Screenshot
 
